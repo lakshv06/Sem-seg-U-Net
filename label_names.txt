@@ -1,0 +1,11 @@
+bg
+face
+lb
+rb
+le
+re
+nose
+ulip
+imouth
+llip
+hair
